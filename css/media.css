@@ -1,0 +1,48 @@
+@media screen and (max-width: 992px) {
+
+}
+@media screen and (max-width: 768px) {
+
+
+}
+
+@media screen and (max-width: 576px) {
+    .hero-title {
+        font-size: 24px;
+    }
+
+    .hero-content_button {
+        width: 175px;
+        padding: 10px 0;
+        font-size: 15px;
+    }
+
+    .corporation-title {
+        font-size: 32px;
+    }
+    .corporation-svg{
+        margin-left: 85px;
+    }
+    .corporation-svg-title, .corporation-svg-description{
+        width: 100%;
+        text-align: center;
+    }
+    .about-title{
+        font-size: 32px;
+    }
+    .about-item{
+        margin-bottom: 20px;
+    }
+    .about-description{
+        padding: 0;
+    }
+    .facts-item {
+        margin-left: 55%;
+    }
+    .works-header{
+        width: 100%;
+    }
+    .works-item{
+        margin-bottom: 20px;
+    }
+}
